@@ -1,0 +1,13 @@
+{
+    "name": "TESTT",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "testtok",
+        "/category/asset_value_tracking/core-token/symbol": "TTOK",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "10000"
+    }
+}
